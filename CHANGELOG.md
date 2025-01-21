@@ -7,6 +7,7 @@ Versioning](https://semver.org/spec/v2.0.0.html).
 ## [0.2.0] - 2025-01-21
 ### Added
 - Fichero CHANGELOG.md
+- Añadido java y Vehicle.java
 ## [0.1.0] - 2021-12-15
 ### Added
 - Ficheros Book.java y Member.java
